@@ -1,2 +1,9 @@
 [alias]
-s=status
+    s = status
+    co = checkout
+    br = branch
+[use]
+    name = <USER NAME>
+[user]
+    name = <USER NAME>
+    email = <USER EMAIL>
