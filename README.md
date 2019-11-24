@@ -6,3 +6,4 @@ This repo contains the following dotfiles:
 - `~/.bashrc`
 - `~/.bash_profile`
 - `~/.tmux.conf`
+- `~/.vimrc`
