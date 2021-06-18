@@ -12,8 +12,11 @@ Environment variables and other configurations for my Ubuntu operating system
 Personalization of my tmux tool. Other references to replicate this terminal can be found here:
 
 * https://github.com/tmux/tmux/wiki/Getting-Started
+
 In MacOs, it is also important to download the powerline font here:
 * https://github.com/powerline/fonts
+
+![sample](sample.png)
 
 ## `~/.vimrc`
 Vim configurations to personalize my text editor
