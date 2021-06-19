@@ -22,7 +22,9 @@ Check out a sample of my workspace below:
 ![sample](sample.png)
 
 ### `~/.vimrc`
-Vim configurations to personalize my text editor.
+Vim configurations to personalize my text editor. I used this reference:
+
+* https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c
 
 ### `~/.zshrc`
 Here I export environment variables and do same configurations using the Z shell.
