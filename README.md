@@ -21,6 +21,18 @@ Check out a sample of my workspace below:
 
 ![sample](sample.png)
 
+#### Usefull commmands
+
+Check all sessions
+```shell
+tmux ls
+```
+
+Attach to one specific session
+```shell
+tmux attach -t <NUMBER_OF_THE_SESSION>
+```
+
 ### `~/.vimrc`
 Vim configurations to personalize my text editor. I used this reference:
 
